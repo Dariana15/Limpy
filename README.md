@@ -26,7 +26,7 @@ You are all set.
 2) Run the code
 you can see some examples I executed through a Jupyter notebook script. 
 
-	i) cd "PATH TO LIMPY/notebook/
-	ii) jupyter-notebook test.ipynb
+   i) cd "PATH TO LIMPY/notebook/
+   ii) jupyter-notebook test.ipynb
 	
 you can run now...
