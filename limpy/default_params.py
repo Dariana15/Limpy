@@ -31,3 +31,10 @@ default_lcp_chung_params={
 default_dummy_values={
         'lcp_low': 1e3
         }
+
+
+default_constants={
+        'c_in_m':
+        
+        
+        }
