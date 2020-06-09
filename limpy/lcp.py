@@ -218,7 +218,7 @@ def slice(datacube, ngrid, nproj, option='C'):
 
 def plot_sfr_mhalo(Mhalo_array_logscale,colorlist=None,figname=None):
     
-    colorlist=['Crimson','darkgreen','C1','blue']
+    colorlist=['Crimson','darkgreen','C1','blue','C5','C9']
     lw_def=3.0
     font_legend_def=18
     alpha_def=0.3
